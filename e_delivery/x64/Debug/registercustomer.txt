@@ -1,0 +1,8 @@
+NAME : batuhan
+LAST NAME : polat
+EMAIL : king_player1@outlook.com
+PHONE NUMBER : 5365886760
+PASSWORD : 316269
+BALANCE : 120
+
+
